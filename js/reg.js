@@ -1,4 +1,4 @@
-
+console.log("asdfasdf");
 document.querySelector("#form").addEventListener("submit", async (e) => {
     e.preventDefault();
 
