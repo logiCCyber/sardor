@@ -1,4 +1,4 @@
-(() => {
+
   'use strict'
 
   // Получаем все формы с классом .needs-validation
@@ -36,4 +36,3 @@
       form.classList.add('was-validated')
     }, false)
   })
-})();
